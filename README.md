@@ -1,6 +1,17 @@
 # 💫 About Me:
 Hi 👋, I'm Jeong.<br>A passionate frontend developer.
 
+- 🔭 I’m currently working on [SaleMate](https://github.com/CaturAgeng/SaleMate-FE)
+
+- 👨‍💻 All of my projects are available at [https://docs.google.com/presentation/d/1hDg-ztmiv4YNh3Eb0Awbndqdj7vVGd19/edit#slide=id.p1](https://docs.google.com/presentation/d/1hDg-ztmiv4YNh3Eb0Awbndqdj7vVGd19/edit#slide=id.p1)
+
+- 💬 Ask me about **react.js, next.js, tailwind css**
+
+- 📫 How to reach me **kevinjeonghun@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/kevinjeonghun/](https://www.linkedin.com/in/kevinjeonghun/)
+
+- ⚡ Fun fact **I like to make electronic music**
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kevinjeonghun) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kevinjeonghun) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@kevinjeonghun) 
