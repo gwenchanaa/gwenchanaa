@@ -1,15 +1,15 @@
 # 💫 About Me:
-Hi 👋, I'm Jeong.<br>A passionate frontend developer.
+Hi 👋, I'm Jeong. A passionate frontend developer.
 
 - 🔭 I’m currently working on [SaleMate](https://github.com/CaturAgeng/SaleMate-FE)
 
-- 👨‍💻 All of my projects are available at [https://docs.google.com/presentation/d/1hDg-ztmiv4YNh3Eb0Awbndqdj7vVGd19/edit#slide=id.p1](https://docs.google.com/presentation/d/1hDg-ztmiv4YNh3Eb0Awbndqdj7vVGd19/edit#slide=id.p1)
+- 👨‍💻 All of my projects are available [here](https://docs.google.com/presentation/d/1hDg-ztmiv4YNh3Eb0Awbndqdj7vVGd19/edit#slide=id.p1)
 
 - 💬 Ask me about **react.js, next.js, tailwind css**
 
 - 📫 How to reach me **kevinjeonghun@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/kevinjeonghun/](https://www.linkedin.com/in/kevinjeonghun/)
+- 📄 Know about my experiences [here](https://www.linkedin.com/in/kevinjeonghun/)
 
 - ⚡ Fun fact **I like to make electronic music**
 
