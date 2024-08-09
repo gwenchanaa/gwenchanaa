@@ -1,4 +1,4 @@
-# 💫 About Me:
+## 💫 About Me:
 Hi 👋, I'm Jeong. A passionate frontend developer.
 
 - 🔭 I’m currently working on [SaleMate](https://github.com/CaturAgeng/SaleMate-FE)
