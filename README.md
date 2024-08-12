@@ -11,7 +11,7 @@ Hi 👋, I'm Jeong. A passionate frontend developer.
 
 - 📄 Know about my experiences [here](https://docs.google.com/document/d/1yOg5ebA0Kd9nLhH876SWBhtWJJpCpyT-/edit?usp=drive_link&ouid=105443845892656112541&rtpof=true&sd=true)
 
-- ⚡ Fun fact **I like to make electronic music**
+- ⚡ Fun fact **I like to make electronic music** [check it out!](https://linktr.ee/kevinjeonghun)
 
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kevinjeonghun)
