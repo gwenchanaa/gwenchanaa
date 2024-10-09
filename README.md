@@ -1,7 +1,7 @@
 ## 💫 About Me:
 Hi 👋, I'm Jeong. A passionate frontend developer.
 
-- 🔭 I’m currently working on [**Quiz App**(https://github.com/kevinjeonghun/quiz-app) & [freeCodeCamp **Front End Development Libraries certification**](https://github.com/kevinjeonghun/freeCodeCamp-solutions)
+- 🔭 I’m currently working on [**Quiz App**](https://github.com/kevinjeonghun/quiz-app) & [freeCodeCamp **Front End Development Libraries certification**](https://github.com/kevinjeonghun/freeCodeCamp-solutions)
 
 - 👨‍💻 All of my projects are available [here](https://docs.google.com/presentation/d/1hDg-ztmiv4YNh3Eb0Awbndqdj7vVGd19/edit#slide=id.p1)
 
