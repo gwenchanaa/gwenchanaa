@@ -9,7 +9,7 @@ Hi 👋, I'm Jeong. A passionate frontend developer.
 
 - 📫 How to reach me **kevinjeong13@gmail.com**
 
-- 📄 Know about my experiences [here](https://docs.google.com/document/d/1yOg5ebA0Kd9nLhH876SWBhtWJJpCpyT-/edit?usp=drive_link&ouid=105443845892656112541&rtpof=true&sd=true)
+- 📄 Know about my experiences [here](https://www.linkedin.com/in/kevinjeonghun/)
 
 - ⚡ Fun fact **I like to make electronic music** [check it out!](https://linktr.ee/kevinjeonghun)
 
