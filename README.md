@@ -1,9 +1,9 @@
 ## 💫 About Me:
 Hi 👋, I'm Jeong. A passionate frontend developer.
 
-- 🔭 I’m currently working on [freeCodeCamp **Front End Development Libraries certification**](https://github.com/kevinjeonghun/freeCodeCamp-solutions) & [freelance projects on Fastwork](https://fastwork.id/user/kevinjeong)
+- 🔭 I’m currently working on [freeCodeCamp **Front End Development Libraries certification**](https://github.com/kevinjeonghun/freeCodeCamp-solutions) & [freelance projects on **Fastwork**](https://fastwork.id/user/kevinjeong)
 
-- 🎉 My recent finished project: [multi-step form](https://github.com/kevinjeonghun/multistep-form)
+- 🎉 My recent finished project: [Multi-Step Form](https://github.com/kevinjeonghun/multistep-form)
 
 - 👨‍💻 All of my projects are available [here](https://docs.google.com/presentation/d/1hDg-ztmiv4YNh3Eb0Awbndqdj7vVGd19/edit#slide=id.p1)
 
