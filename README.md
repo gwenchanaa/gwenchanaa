@@ -3,7 +3,7 @@ Hi 👋, I'm Jeong. A passionate frontend developer.
 
 - 🔭 I’m currently working on [freelance projects on **Fastwork**](https://fastwork.id/user/kevinjeong/)
 
-- 🎉 My recent finished project: [Client's Web Portfolio](https://landing-page-portfolio-astri.vercel.app/)
+- 🎉 My recent finished project: [Multi-Step Form](https://github.com/kevinjeonghun/multistep-form)
 
 - 👨‍💻 All of my past projects are available [here](https://docs.google.com/presentation/d/1hDg-ztmiv4YNh3Eb0Awbndqdj7vVGd19/edit#slide=id.p1)
 
