@@ -5,7 +5,7 @@ Hi 👋, I'm Jeong. A passionate frontend developer.
 
 - 🎉 My recent finished project: [Client's Web Portfolio](https://landing-page-portfolio-astri.vercel.app/)
 
-- 👨‍💻 All of my projects are available [here](https://docs.google.com/presentation/d/1hDg-ztmiv4YNh3Eb0Awbndqdj7vVGd19/edit#slide=id.p1)
+- 👨‍💻 All of my past projects are available [here](https://docs.google.com/presentation/d/1hDg-ztmiv4YNh3Eb0Awbndqdj7vVGd19/edit#slide=id.p1)
 
 - 💬 Ask me about **react.js, next.js, tailwind css**
 
