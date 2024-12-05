@@ -1,7 +1,7 @@
 ## 💫 About Me:
 Hi 👋, I'm Jeong. A passionate frontend developer.
 
-- 🔭 I’m currently working on [freelance projects on **Fastwork**](https://fastwork.id/user/kevinjeong/)
+- 🔭 I’m currently working on [freelance projects on **Fastwork**]()
 
 - 🎉 My recent finished project: [Multi-Step Form](https://github.com/kevinjeonghun/multistep-form)
 
