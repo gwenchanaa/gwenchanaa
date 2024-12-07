@@ -3,8 +3,6 @@ Hi 👋, I'm Jeong. A passionate frontend developer.
 
 - 🔭 I’m currently working on [freelance projects on **Fastwork**]()
 
-- 🎉 My recent finished project: [Multi-Step Form](https://github.com/kevinjeonghun/multistep-form)
-
 - 👨‍💻 All of my past projects are available [here](https://docs.google.com/presentation/d/1hDg-ztmiv4YNh3Eb0Awbndqdj7vVGd19/edit#slide=id.p1)
 
 - 💬 Ask me about **react.js, next.js, tailwind css**
