@@ -3,20 +3,20 @@ Hi 👋, I'm Jeong. A passionate frontend developer.
 
 - 🔭 I’m currently working on [freelance projects on **Fastwork**]()
 
-- 👨‍💻 All of my past projects are available [here](https://docs.google.com/presentation/d/1hDg-ztmiv4YNh3Eb0Awbndqdj7vVGd19/edit#slide=id.p1)
+- 👨‍💻 All of my past projects are available [here]()
 
 - 💬 Ask me about **react.js, next.js, tailwind css**
 
 - 📫 How to reach me **kevinjeong13@gmail.com**
 
-- 📄 Know about my experiences [here](https://www.linkedin.com/in/kevinjeonghun/)
+- 📄 Know about my experiences [here]()
 
 - ⚡ Fun fact **I like to make electronic music** [check it out!](https://linktr.ee/kevinjeonghun)
 
 - 🤝 I’m looking to collaborate on open-source projects and web development initiatives to broaden my experience and network.
 
 ## 🌐 Socials:
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kevinjeonghun)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]()
  [![Spotify](https://img.shields.io/badge/Spotify-%231DB954.svg?logo=Spotify&logoColor=white)](https://open.spotify.com/artist/1VtbbgwWpJEg3KGK23Y1RW?si=wwcv5jGpTlSDKv3pl98BXA)
  [![Soundcloud](https://img.shields.io/badge/Soundcloud-%23FF5500.svg?logo=Soundcloud&logoColor=white)](https://soundcloud.com/kevinjeonghun)
  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@kevinjeonghun) 
