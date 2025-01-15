@@ -1,19 +1,19 @@
 ## 💫 About Me:
 Hi 👋, I'm Jeong. A passionate frontend developer.
 
-- 🔭 I’m currently working on [freelance projects]()
+- 🔭 I’m currently working on freelance projects
 
 <!-- - 👨‍💻 All of my past projects are available [here]() -->
 
 - 💬 Ask me about **react.js, next.js, tailwind css**
 
-<!-- - 📫 How to reach me **kevinjeong13@gmail.com** -->
+- 📫 How to reach me **kevinjeong13@gmail.com**
 
-<!-- - 📄 Know about my experiences [here]()// -->
+<!-- - 📄 Know about my experiences [here]() -->
 
 - ⚡ Fun fact **I like to make electronic music** [check it out!](https://linktr.ee/kevinjeonghun)
 
-- 🤝 I’m looking to collaborate on open-source projects and web development initiatives to broaden my experience and network.
+- 🤝 I’m looking to collaborate on open-source projects and web development initiatives to broaden my experience and network
 
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevinjeonghun/)
