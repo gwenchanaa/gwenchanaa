@@ -7,8 +7,6 @@ Hi 👋, I'm Jeong. A passionate frontend developer.
 
 - 💬 Ask me about **react.js, next.js, tailwind css**
 
-- 📫 How to reach me **kevinjeong13@gmail.com**
-
 <!-- - 📄 Know about my experiences [here]() -->
 
 - ⚡ Fun fact **I like to make electronic music** [check it out!](https://linktr.ee/kevinjeonghun)
